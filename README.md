@@ -1,6 +1,8 @@
 String
 ======
 
+[![Build Status](https://travis-ci.org/jjok/String.png?branch=master)](https://travis-ci.org/jjok/String)
+
 Useful string functions for PHP.
 
     echo jjok\String\String::camelise('a-hyphenated-string');
