@@ -8,6 +8,9 @@
 		"homepage": "http://jjok.co.uk",
 		"role": "Developer"
 	}],
+	"autoload": {
+		"psr-0": {"jjok\\String\\": "src/"}
+	},
     "require": {
         "php": ">=5.3.0"
     }
