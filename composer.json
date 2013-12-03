@@ -1,6 +1,6 @@
 {
 	"name": "jjok/string",
-	"description": "Useful string functions for PHP",
+	"description": "Useful string functions for PHP.",
 	"license": "MIT",
 	"homepage": "https://github.com/jjok/String",
 	"authors": [{
